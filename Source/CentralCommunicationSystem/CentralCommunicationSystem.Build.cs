@@ -13,7 +13,8 @@ public class CentralCommunicationSystem : ModuleRules
             "Core",
             "CoreUObject",
             "Engine",
-            "GameplayTags"
+            "GameplayTags",
+            "EnhancedInput"
         });
 
         PrivateDependencyModuleNames.AddRange(new string[]
